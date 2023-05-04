@@ -1,6 +1,15 @@
 # Pytorch-GAN
 使用Pytorch实现GAN 的过程
 <hr></hr>
+
+<div>
+	<p><a href="https://mydreamambitious.blog.csdn.net/article/details/130362296"> GAN原理及Pytorch框架实现GAN（比较容易理解）</a></p>
+	<p><a href="https://mydreamambitious.blog.csdn.net/article/details/130402245"> Pytorch框架实现DCGAN（比较容易理解）</a></p>
+	<p><a href="https://mydreamambitious.blog.csdn.net/article/details/130447595"> CycleGAN的基本原理以及Pytorch框架实现</a></p>
+	<p><a href="https://mydreamambitious.blog.csdn.net/article/details/130471766"> WGAN基本原理及Pytorch实现WGAN</a></p>
+	<p><a href="https://mydreamambitious.blog.csdn.net/article/details/130483339"> Pytorch框架实现WGAN-GP</a></p>
+</div>
+
 <label>还在不断更新中……</label>
 <hr></hr>
 <div>
