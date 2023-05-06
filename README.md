@@ -8,6 +8,7 @@
 	<p><a href="https://mydreamambitious.blog.csdn.net/article/details/130447595"> CycleGAN的基本原理以及Pytorch框架实现</a></p>
 	<p><a href="https://mydreamambitious.blog.csdn.net/article/details/130471766"> WGAN基本原理及Pytorch实现WGAN</a></p>
 	<p><a href="https://mydreamambitious.blog.csdn.net/article/details/130483339"> Pytorch框架实现WGAN-GP</a></p>
+	<p><a href="https://mp.csdn.net/mp_blog/creation/editor/130506045">Pytorch框架实现Pix2Pix(Image-to-image)</a></p>
 </div>
 
 <label>还在不断更新中……</label>
