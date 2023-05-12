@@ -9,6 +9,9 @@
 	<p><a href="https://mydreamambitious.blog.csdn.net/article/details/130471766"> WGAN基本原理及Pytorch实现WGAN</a></p>
 	<p><a href="https://mydreamambitious.blog.csdn.net/article/details/130483339"> Pytorch框架实现WGAN-GP</a></p>
 	<p><a href="https://mp.csdn.net/mp_blog/creation/editor/130506045">Pytorch框架实现Pix2Pix(Image-to-image)</a></p>
+	<p>自编码器开始了(AutoEncoder)......</p>
+	<p><a href="https://mydreamambitious.blog.csdn.net/article/details/130623570">Pytorch实现自编码器变种</a></p>
+	<p><a href="https://mydreamambitious.blog.csdn.net/article/details/130541755">自编码器原理及使用Pytorch框架实现（AutoEncoder）</a></p>
 </div>
 
 <label>还在不断更新中……</label>
