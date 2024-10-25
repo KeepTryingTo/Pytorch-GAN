@@ -41,6 +41,11 @@
                 <ul>
                      <li>终端输入 git pull --rebase origin main 即可跟刚创建的线上远程仓库的默认分支main关联</li>
                      <li>再执行一下 git push -u origin main 即可将我们的项目文件上传到关联的线上远程文件中</li>
+		     <p>
+			     如果报错error: RPC failed; curl 28 Recv failure: Connection was reset
+					fatal: expected 'acknowledgments'
+		   	     可以尝试这个命令：git config --global http.sslVerify "false"
+		     </p>
                 </ul>
     </li>
   </ul>
